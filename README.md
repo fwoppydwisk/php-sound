@@ -1,4 +1,4 @@
-# Server Sound Player
+# PHP Sound Player
 Plays a specified sound file or files when a php page is loaded.
 - - -
 **Requirements:**
