@@ -8,6 +8,6 @@ Plays a specified sound file or files on the web server when a php page is loade
 - Sox media player
 - Probably something else I forgot
 ---
-Readme to be updated later or whatever
-
+**Instructions:**
 Add the `www-data` user to audio group: `usermod -aG audio www-data`
+More to come
